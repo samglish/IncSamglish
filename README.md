@@ -8,12 +8,12 @@ some pictures
 
 <img src="samEE2.png" width="85%">
 
+<img src="samEE7.png" width="85%">
+
 <img src="samEE4.png" width="85%">
 
 <img src="samEE5.png" width="85%">
 
 <img src="samEE6.png" width="85%">
-
-<img src="samEE7.png" width="85%">
 
 <img src="samEE8.png" width="85%">
